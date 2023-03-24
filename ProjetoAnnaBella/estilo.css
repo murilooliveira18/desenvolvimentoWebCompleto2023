@@ -1,0 +1,12 @@
+body {
+    background-image: url('imagens/fundo.png');
+}
+
+h1{
+    color: gray;
+
+}
+.conteudo{
+    background: white;
+    padding: 10px;
+}
